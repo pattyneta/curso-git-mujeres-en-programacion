@@ -1,1 +1,1 @@
-Hola, Soy Sara Reyna c: y estamos en "Introduccion a Git"
+Hola, Soy Patty y estamos en "Introduccion a Git"
